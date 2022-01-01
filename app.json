@@ -13,15 +13,15 @@
     "success_url": "https://telegram.me/trprogram",
     "env": {
         "BOT_TOKEN": {
-            "description": "You Telegram Bot Token from @BotFather",
+            "description": "حط توكن بوتك عزيزي",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash from my.telegram.org",
+            "description": "حط ايبي هاش",
             "value": ""
         },
         "APP_ID": {
-            "description": "Your API ID from my.telegram.org",
+            "description": "حط ايبي ايدي",
             "value": ""
         }
     },
